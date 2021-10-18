@@ -26,4 +26,4 @@ client.on('messageCreate', (message) =>{
     }
 })
 
-client.login('ODg1Mjc5Mzc0NzA0Nzg3NDU2.YTkuqg.Li6_WIDmAmU8R5_kiTOn_jGENTg')
+client.login('TOKEN_HERE')
